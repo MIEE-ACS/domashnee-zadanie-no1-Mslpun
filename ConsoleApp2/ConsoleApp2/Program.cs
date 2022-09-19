@@ -38,4 +38,3 @@ else
 {
     Console.Write("Вы не выполнили условие A < C < B. Попробуйте еще раз.\n");
 }
-Console.ReadLine();
